@@ -9,8 +9,11 @@ différentes images pour savoir la pertinence du système.
 Étape 1: Définition de l’architecture du modèle:
 Nous devons définir à quoi ressemblera notre modèle et cela nécessite de
 répondre à des questions telles que :
+
 ● Combien de couches convolutives voulons-nous ?
+
 ● Quelle doit être la fonction d’activation de chaque couche ?
+
 ● Combien d’unités cachées doit avoir chaque couche ?
 
 Étape 2 : Entraînement du modèle:
